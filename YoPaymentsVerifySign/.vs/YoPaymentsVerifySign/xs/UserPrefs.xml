@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1F49864D-0AF5-4C01-8716-0B9108D83987}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="YoPaymentsVerifySign/YoSignatureVerifier.cs">
+    <Files>
+      <File FileName="YoPaymentsVerifySign/Program.cs" Line="7" Column="63" />
+      <File FileName="YoPaymentsVerifySign/YoSignatureVerifier.cs" Line="140" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="YoPaymentsVerifySign" expanded="True">
+            <Node name="YoPaymentsVerifySign" expanded="True">
+              <Node name="YoSignatureVerifier.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.YoPaymentsVerifySign PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

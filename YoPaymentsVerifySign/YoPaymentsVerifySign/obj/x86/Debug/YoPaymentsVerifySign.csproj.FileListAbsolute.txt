@@ -1,0 +1,6 @@
+/Users/josephtabajjwa/Desktop/Joe/projects/yopayments API/C#/verifysignature/YoPaymentsVerifySign/YoPaymentsVerifySign/bin/Debug/YoPaymentsVerifySign.exe
+/Users/josephtabajjwa/Desktop/Joe/projects/yopayments API/C#/verifysignature/YoPaymentsVerifySign/YoPaymentsVerifySign/bin/Debug/YoPaymentsVerifySign.pdb
+/Users/josephtabajjwa/Desktop/Joe/projects/yopayments API/C#/verifysignature/YoPaymentsVerifySign/YoPaymentsVerifySign/obj/x86/Debug/YoPaymentsVerifySign.csprojAssemblyReference.cache
+/Users/josephtabajjwa/Desktop/Joe/projects/yopayments API/C#/verifysignature/YoPaymentsVerifySign/YoPaymentsVerifySign/obj/x86/Debug/YoPaymentsVerifySign.csproj.CoreCompileInputs.cache
+/Users/josephtabajjwa/Desktop/Joe/projects/yopayments API/C#/verifysignature/YoPaymentsVerifySign/YoPaymentsVerifySign/obj/x86/Debug/YoPaymentsVerifySign.exe
+/Users/josephtabajjwa/Desktop/Joe/projects/yopayments API/C#/verifysignature/YoPaymentsVerifySign/YoPaymentsVerifySign/obj/x86/Debug/YoPaymentsVerifySign.pdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoPaymentsVerifySign", "YoPaymentsVerifySign\YoPaymentsVerifySign.csproj", "{1F49864D-0AF5-4C01-8716-0B9108D83987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F49864D-0AF5-4C01-8716-0B9108D83987}.Debug|x86.ActiveCfg = Debug|x86
+		{1F49864D-0AF5-4C01-8716-0B9108D83987}.Debug|x86.Build.0 = Debug|x86
+		{1F49864D-0AF5-4C01-8716-0B9108D83987}.Release|x86.ActiveCfg = Release|x86
+		{1F49864D-0AF5-4C01-8716-0B9108D83987}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
